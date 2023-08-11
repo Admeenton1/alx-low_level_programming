@@ -2,7 +2,7 @@
 
 /**
  * main - Prints the alphabets
- * RFeturn: Always (Success)
+ * Return: Always (Success)
  */
 
 int main(void)
