@@ -14,10 +14,10 @@ int main(void)
 	int a;
 	char t;
 
-	for (a = '0'; a = '9'; a++)
+	for (a = '0'; a <= '9'; a++)
 	putchar(a);
 
-	for (t = 'a'; t = 'f'; f++)
+	for (t = 'a'; t <= 'f'; f++)
 	putchar(f);
 	putchar('\n');
 
