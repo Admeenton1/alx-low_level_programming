@@ -4,6 +4,9 @@
  * print_numbers - prints numbers in a range
  * Retrurn: The numbers sine 0 to 9
  */
+
+void print_numbers(void)
+
 {
 	int k;
 
