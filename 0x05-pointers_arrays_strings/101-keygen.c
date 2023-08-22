@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "main.h"
+#include <time.h>
 
 /**
  * main - Generates random valid passwords for th
@@ -15,6 +15,7 @@ int main(void)
 	int index = 0, sum = 0, diff_half1, diff_half2;
 
 	srand(time(0));
+
 	while (sum < 2772)
 	
 	{
